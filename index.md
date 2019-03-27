@@ -7,6 +7,7 @@ title: Example
 
 ## News
 
+- Patata
 - Some event
 - Another exciting event
 - More news
